@@ -28,7 +28,7 @@ Always verify the official KRAKA contract address before interacting with the to
 
 ## Buy KRAKA
 
-[Buy KRAKA on Uniswap](https://app.uniswap.org/swap)
+[Buy KRAKA on Uniswap](https://app.uniswap.org/swap?chain=base&inputCurrency=ETH&outputCurrency=0x5120B83f75034299bCfD2403F889Ff6544D01b05)
 
 ---
 
