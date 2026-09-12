@@ -26,6 +26,10 @@ Always verify the official KRAKA contract address before interacting with the to
 
 `0x5120B83f75034299bCfD2403F889Ff6544D01b05`
 
+## Buy KRAKA
+
+[Buy KRAKA on Uniswap](https://app.uniswap.org/swap)
+
 ---
 
 KRAKA is an evolving community project. Participation in digital assets involves risk. Nothing on this website constitutes financial advice or a guarantee of returns.
