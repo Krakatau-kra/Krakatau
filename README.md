@@ -1,0 +1,9 @@
+# Krakatau (KRAKA)
+
+0x5120B83f75034299bCfD2403F889Ff6544D01b05
+
+Network: Base
+
+Symbol: KRAKA
+
+TOtal supply: 1,000,000 KRAKA
