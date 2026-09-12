@@ -34,6 +34,8 @@ Always verify the official KRAKA contract address before interacting with the to
 
 [Follow KRAKA on X](https://x.com/KrakatauKRAKA)
 
+[join KRAKA on Telegram](http://t.me/KRAKAOfficial)
+
 ---
 
 KRAKA is an evolving community project. Participation in digital assets involves risk. Nothing on this website constitutes financial advice or a guarantee of returns.
